@@ -1,0 +1,75 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "size": "A5",
+  "readingProgression": "rtl",
+  "dateModified": "2025-09-03T07:31:52.143Z",
+  "readingOrder": [
+    {
+      "url": "toc-template.html",
+      "name": "目　　次",
+      "rel": "contents",
+      "type": "LinkedResource"
+    },
+    {
+      "url": ".vivliostyle/preface.html",
+      "name": "本書の序論と全体構想"
+    },
+    {
+      "url": ".vivliostyle/cover.html",
+      "name": "第一編　生産性向上の要因——労働およびその産物が社会の各階層へ自然に配分される秩序"
+    },
+    {
+      "url": ".vivliostyle/ch1.html",
+      "name": "第一章　分業について"
+    },
+    {
+      "url": ".vivliostyle/ch2.html",
+      "name": "第二章　分業が生じる原理"
+    },
+    {
+      "url": ".vivliostyle/ch3.html",
+      "name": "第三章　分業は市場規模に左右される"
+    },
+    {
+      "url": ".vivliostyle/ch4.html",
+      "name": "第四章　貨幣の起源と役割"
+    },
+    {
+      "url": ".vivliostyle/ch5.html",
+      "name": "第五章　商品の実価格と名目価格——労働単位と貨幣単位で測る価格"
+    },
+    {
+      "url": ".vivliostyle/ch6.html",
+      "name": "第六章　商品の価格の構成要素"
+    },
+    {
+      "url": ".vivliostyle/ch7.html",
+      "name": "第七章　商品の自然価格と市場価格"
+    },
+    {
+      "url": ".vivliostyle/ch8.html",
+      "name": "第八章　労働の賃金"
+    },
+    {
+      "url": ".vivliostyle/ch9.html",
+      "name": "第九章　資本が生む利潤"
+    },
+    {
+      "url": ".vivliostyle/ch10.html",
+      "name": "第十章　労働と資本、職業別の賃金と利潤"
+    },
+    {
+      "url": ".vivliostyle/ch11.html",
+      "name": "第十一章　土地の地代——その性質と形成"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

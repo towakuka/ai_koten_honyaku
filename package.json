@@ -1,0 +1,15 @@
+{
+  "name": "adam-smith-wealth-of-nations",
+  "description": "adam_smith_wealth_of_nations",
+  "version": "0.0.0",
+  "author": "tomoya_tokudomi <tomoya.tokudomi@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "CC0-1.0",
+  "private": true
+}
