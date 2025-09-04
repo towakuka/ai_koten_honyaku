@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-04T14:15:28.753Z",
+  "readingOrder": [
+    {
+      "url": "cover.html",
+      "name": "第二編　資本の性質・蓄積・運用"
+    },
+    {
+      "url": "preface.html",
+      "name": "序　　論"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
