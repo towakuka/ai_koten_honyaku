@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-05T10:51:14.016Z",
+  "readingOrder": [
+    {
+      "url": "ch2_1.html",
+      "name": "第二章　社会の総ストックの一部門としての貨幣、または国民資本の維持費用（一）"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
