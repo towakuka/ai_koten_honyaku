@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-07T05:10:03.579Z",
+  "readingOrder": [
+    {
+      "url": "ch4.html",
+      "name": "第四章　利子付き貸付資本"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
