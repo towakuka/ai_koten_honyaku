@@ -1,2 +1,2 @@
 vivliostyle preview
-vivliostyle build -o "国富論_第1編_序論.pdf"
+vivliostyle build -o "国富論_序論.pdf"
