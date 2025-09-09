@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-09T11:27:27.734Z",
+  "readingOrder": [
+    {
+      "url": "cover.html",
+      "name": "第一編　生産性向上の要因——労働およびその産物が社会の各階層へ自然に配分される秩序"
+    },
+    {
+      "url": "ch1.html",
+      "name": "第一章　分業について"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
