@@ -12,7 +12,6 @@ module.exports = {
     //   output: 'index.html',
     //   rel: 'contents'
     // },
-    'cover.md',
     'introduction.md',
     // 'manuscript.md', // `title` is automatically guessed from the file (frontmatter > first heading).
     // {

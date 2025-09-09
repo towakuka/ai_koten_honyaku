@@ -7,12 +7,8 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "name": "国富論",
   "author": "アダム・スミス",
-  "dateModified": "2025-09-09T10:59:48.479Z",
+  "dateModified": "2025-09-09T11:21:21.868Z",
   "readingOrder": [
-    {
-      "url": "cover.html",
-      "name": "第一編　生産性向上の要因——労働およびその産物が社会の各階層へ自然に配分される秩序"
-    },
     {
       "url": "introduction.html",
       "name": "本書の序論と全体構想"
