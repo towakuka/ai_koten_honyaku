@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-07T15:35:15.475Z",
+  "readingOrder": [
+    {
+      "url": "ch3.html",
+      "name": "第三章　分業は市場規模に左右される"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
