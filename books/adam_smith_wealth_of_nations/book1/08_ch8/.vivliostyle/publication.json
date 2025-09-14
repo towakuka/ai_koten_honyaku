@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-07T15:49:43.913Z",
+  "readingOrder": [
+    {
+      "url": "ch8.html",
+      "name": "第八章　労働の賃金"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
