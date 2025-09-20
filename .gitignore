@@ -135,3 +135,5 @@ dist
 # Ignore these directories and everything under them
 /books/**/translation/
 /books/**/rewrite/
+/books/**/rewrite2/
+/books/**/abstract/
