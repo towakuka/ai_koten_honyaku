@@ -1,0 +1,14 @@
+@page {
+  size: A5;
+}
+
+:root {
+  /* Right-opening spreads */
+  page-progression: rtl;
+}
+
+/* Ensure vertical writing on TOC and all pages */
+html, body {
+  writing-mode: vertical-rl;
+}
+
