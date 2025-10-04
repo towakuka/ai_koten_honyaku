@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-09-27T14:23:06.438Z",
+  "readingOrder": [
+    {
+      "url": "cover.html",
+      "name": "第四編　政治経済の諸体系"
+    },
+    {
+      "url": "introduction.html",
+      "name": "序　　論"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
