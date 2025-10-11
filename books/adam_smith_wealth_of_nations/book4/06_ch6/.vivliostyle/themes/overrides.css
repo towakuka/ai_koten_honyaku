@@ -1,0 +1,21 @@
+@page {
+  size: A5;
+}
+
+:root {
+  /* Right-opening spreads */
+  page-progression: rtl;
+}
+
+/* Ensure vertical writing on TOC and all pages */
+html, body {
+  writing-mode: vertical-rl;
+}
+
+/* Extra blank line after a specific paragraph in ch6 */
+#ch6-blank-after-19 {
+  display: block;
+  margin: 0;
+  /* Add one line worth of space before the anchor (i.e., after the previous paragraph) */
+  margin-block-start: 1em;
+}
