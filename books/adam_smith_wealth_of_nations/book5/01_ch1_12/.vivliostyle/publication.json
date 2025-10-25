@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "国富論",
+  "author": "アダム・スミス",
+  "dateModified": "2025-10-25T19:01:11.416Z",
+  "readingOrder": [
+    {
+      "url": "ch1_12.html",
+      "name": "第一章　主権者または国家の支出（十二）"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
