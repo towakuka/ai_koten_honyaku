@@ -138,4 +138,5 @@ dist
 /books/**/rewrite2/
 /books/**/abstract/
 /books/**/abstract2/
-/books/**/thumbnail/
+/books/**/99_*/
+/books/**/!bk*/
