@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "人口論",
+  "author": "マルサス",
+  "dateModified": "2025-11-16T08:13:06.030Z",
+  "readingOrder": [
+    {
+      "url": "preface.html",
+      "name": "序　　文"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
