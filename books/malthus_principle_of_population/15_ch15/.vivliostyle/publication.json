@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "人口論",
+  "author": "マルサス",
+  "dateModified": "2025-11-22T21:37:19.150Z",
+  "readingOrder": [
+    {
+      "url": "ch15.html",
+      "name": "第十五章"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
