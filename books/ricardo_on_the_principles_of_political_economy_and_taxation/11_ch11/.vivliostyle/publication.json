@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-08T14:51:04.157Z",
+  "readingOrder": [
+    {
+      "url": "ch11.html",
+      "name": "第十一章　金に対する課税"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

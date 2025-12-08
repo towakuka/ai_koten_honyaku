@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-08T14:56:11.483Z",
+  "readingOrder": [
+    {
+      "url": "ch26.html",
+      "name": "第二十六章　豊かな国と貧しい国における金、穀物、労働の相対価値"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

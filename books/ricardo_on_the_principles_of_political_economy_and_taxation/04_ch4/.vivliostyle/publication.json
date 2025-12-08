@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-08T14:47:57.105Z",
+  "readingOrder": [
+    {
+      "url": "ch4.html",
+      "name": "第四章　自然価格と市場価格"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

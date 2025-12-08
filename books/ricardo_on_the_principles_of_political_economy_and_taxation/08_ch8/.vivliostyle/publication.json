@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-10T15:06:06.988Z",
+  "readingOrder": [
+    {
+      "url": "ch8.html",
+      "name": "第八章　一次生産物への課税"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
