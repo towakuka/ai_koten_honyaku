@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-26T17:15:51.280Z",
+  "readingOrder": [
+    {
+      "url": "book1_cover.html",
+      "name": "第一巻　　　　生　　産"
+    },
+    {
+      "url": "book1_ch1.html",
+      "name": "第一章　生産の要件"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

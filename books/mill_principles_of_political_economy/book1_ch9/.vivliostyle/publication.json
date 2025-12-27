@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-26T17:17:38.421Z",
+  "readingOrder": [
+    {
+      "url": "book1_ch9.html",
+      "name": "第九章　大規模生産と小規模生産"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

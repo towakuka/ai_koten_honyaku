@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-26T17:16:13.468Z",
+  "readingOrder": [
+    {
+      "url": "book1_ch12.html",
+      "name": "第十二章　土地からの生産増加の法則"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
