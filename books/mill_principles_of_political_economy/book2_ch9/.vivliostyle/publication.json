@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-28T21:04:51.825Z",
+  "readingOrder": [
+    {
+      "url": "book2_ch9.html",
+      "name": "第九章　小作農"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-28T21:03:01.523Z",
+  "readingOrder": [
+    {
+      "url": "book2_ch12.html",
+      "name": "第十二章　低賃金に対する通俗的処方"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

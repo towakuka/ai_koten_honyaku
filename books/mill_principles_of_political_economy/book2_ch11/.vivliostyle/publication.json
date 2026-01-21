@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-28T21:02:51.360Z",
+  "readingOrder": [
+    {
+      "url": "book2_ch11.html",
+      "name": "第十一章　賃　金"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

@@ -1,0 +1,166 @@
+<style>
+    .table-yumincho {
+        font-family: 'Yu Mincho', '游明朝', serif;
+        margin: 0 auto;
+    }
+
+    .table-yumincho table {
+        width: auto;
+        border-collapse: collapse;
+        table-layout: fixed;
+        margin: 0 auto;
+    }
+
+    .table-yumincho caption {
+        margin-bottom: 0.75em;
+    }
+
+    .table-yumincho th,
+    .table-yumincho td {
+        padding: 0.3em 0.6em;
+    }
+
+    .table-yumincho thead th {
+        text-align: center;
+        font-weight: 400;
+        border-top: 2px solid rgba(0, 0, 0, 0.6);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.6);
+    }
+
+    .table-yumincho tbody td {
+        vertical-align: middle;
+    }
+
+    .table-yumincho .align-center {
+        text-align: center;
+    }
+
+    .table-yumincho .align-right {
+        text-align: center;
+    }
+
+    /* 数字そのものは右揃えのまま。幅を決めて“右端”を揃える */
+    .table-yumincho td.align-right .num {
+        display: inline-block;
+        min-width: 3ch;
+        /* 桁数に合わせて調整（例: 3ch〜6ch） */
+        text-align: right;
+        /* 数字は右揃え */
+    }
+
+    .table-yumincho .section-title td {
+        padding-top: 2em;
+        /* border-top: 1px solid rgba(0, 0, 0, 0.4); */
+        text-align: center;
+        font-weight: 600;
+    }
+
+    .table-yumincho .section-divider td {
+        border-top: 1px solid rgba(0, 0, 0, 0.4);
+        padding-top: 0.5em;
+    }
+
+    .table-yumincho .summary td {
+        border-top: 1px solid rgba(0, 0, 0, 0.5);
+        /* font-weight: 600; */
+    }
+
+    .table-yumincho tfoot td {
+        border-top: 1px solid rgba(0, 0, 0, 0.6);
+        text-align: left;
+        font-size: 1em;
+        padding-top: 0.5em;
+        white-space: normal;
+        line-break: strict;
+        word-break: break-word;
+        /* font-weight: 600; */
+    }
+</style>
+
+<div class="table-yumincho">
+    <table>
+        <colgroup>
+            <col style="width: 100px;">
+            <col style="width: 150px;">
+            <col style="width: 150px;">
+            <col style="width: 150px;">
+        </colgroup>
+
+        <caption>表：区画別の面積・地代・小作権の買取代金</caption>
+
+        <thead>
+            <tr>
+                <th>区画</th>
+                <th>面積<br>（エーカー）</th>
+                <th>地代<br>（ポンド）</th>
+                <th>小作権の買取代金<br>（ポンド）</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td class="align-center">1</td>
+                <td class="align-right"><span class="num">23</span></td>
+                <td class="align-right"><span class="num">74</span></td>
+                <td class="align-right"><span class="num">33</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">2</td>
+                <td class="align-right"><span class="num">24</span></td>
+                <td class="align-right"><span class="num">77</span></td>
+                <td class="align-right"><span class="num">240</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">3</td>
+                <td class="align-right"><span class="num">13</span></td>
+                <td class="align-right"><span class="num">39</span></td>
+                <td class="align-right"><span class="num">110</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">4</td>
+                <td class="align-right"><span class="num">14</span></td>
+                <td class="align-right"><span class="num">34</span></td>
+                <td class="align-right"><span class="num">85</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">5</td>
+                <td class="align-right"><span class="num">10</span></td>
+                <td class="align-right"><span class="num">33</span></td>
+                <td class="align-right"><span class="num">172</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">6</td>
+                <td class="align-right"><span class="num">5</span></td>
+                <td class="align-right"><span class="num">13</span></td>
+                <td class="align-right"><span class="num">75</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">7</td>
+                <td class="align-right"><span class="num">8</span></td>
+                <td class="align-right"><span class="num">26</span></td>
+                <td class="align-right"><span class="num">130</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">8</td>
+                <td class="align-right"><span class="num">11</span></td>
+                <td class="align-right"><span class="num">33</span></td>
+                <td class="align-right"><span class="num">130</span></td>
+            </tr>
+            <tr>
+                <td class="align-center">9</td>
+                <td class="align-right"><span class="num">2</span></td>
+                <td class="align-right"><span class="num">5</span></td>
+                <td class="align-right"><span class="num">5</span></td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td class="align-center">合計</td>
+                <td class="align-right"><span class="num">110</span></td>
+                <td class="align-right"><span class="num">334</span></td>
+                <td class="align-right"><span class="num">980</span></td>
+            </tr>
+        </tfoot>
+    </table>
+</div>

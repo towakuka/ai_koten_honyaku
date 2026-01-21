@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2025-12-28T21:04:04.761Z",
+  "readingOrder": [
+    {
+      "url": "book2_ch4.html",
+      "name": "第四章　競争と慣行"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
