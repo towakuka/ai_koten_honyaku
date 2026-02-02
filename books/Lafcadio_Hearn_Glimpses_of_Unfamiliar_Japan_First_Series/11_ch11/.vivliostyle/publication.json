@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "知られぬ日本の面影 第一集",
+  "author": "ラフカディオ・ハーン",
+  "dateModified": "2026-02-08T14:42:03.019Z",
+  "readingOrder": [
+    {
+      "url": "ch11.html",
+      "name": "第十一章　杵築の覚書"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

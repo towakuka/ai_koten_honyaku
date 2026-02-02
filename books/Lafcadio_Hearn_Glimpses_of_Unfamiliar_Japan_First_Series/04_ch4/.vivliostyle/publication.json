@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "知られぬ日本の面影 第一集",
+  "author": "ラフカディオ・ハーン",
+  "dateModified": "2026-02-08T14:40:59.129Z",
+  "readingOrder": [
+    {
+      "url": "ch4.html",
+      "name": "第四章　江の島巡礼"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
