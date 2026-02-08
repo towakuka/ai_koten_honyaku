@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-02-08T09:11:03.982Z",
+  "readingOrder": [
+    {
+      "url": "book3_ch3.html",
+      "name": "第三章　価値との関係における生産費"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

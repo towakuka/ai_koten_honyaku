@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-02-08T09:11:27.280Z",
+  "readingOrder": [
+    {
+      "url": "book3_ch7.html",
+      "name": "第七章　貨　幣"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

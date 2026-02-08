@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-02-08T09:10:57.336Z",
+  "readingOrder": [
+    {
+      "url": "book3_ch26.html",
+      "name": "第二十六章　交換が分配に及ぼす影響"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

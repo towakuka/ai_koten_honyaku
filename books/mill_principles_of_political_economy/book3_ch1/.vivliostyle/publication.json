@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-02-08T09:08:59.889Z",
+  "readingOrder": [
+    {
+      "url": "book3_cover.html",
+      "name": "第三巻　　　　交　　換"
+    },
+    {
+      "url": "book3_ch1.html",
+      "name": "第一章　価　値"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
