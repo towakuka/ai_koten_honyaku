@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-03-14T22:59:37.733Z",
+  "readingOrder": [
+    {
+      "url": "book4_ch2.html",
+      "name": "第二章　産業の発展と人口の増加が価値と価格に及ぼす影響"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
