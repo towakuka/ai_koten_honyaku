@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "知られぬ日本の面影 第二集",
+  "author": "ラフカディオ・ハーン",
+  "dateModified": "2026-03-20T17:33:09.330Z",
+  "readingOrder": [
+    {
+      "url": "ch2.html",
+      "name": "第二章　家の神棚"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
