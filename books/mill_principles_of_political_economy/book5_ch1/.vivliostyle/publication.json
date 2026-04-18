@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-04-18T14:42:50.853Z",
+  "readingOrder": [
+    {
+      "url": "book5_cover.html",
+      "name": "第五巻　政府の影響"
+    },
+    {
+      "url": "book5_ch1.html",
+      "name": "第一章　政府の機能一般"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

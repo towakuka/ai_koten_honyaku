@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学および課税の原理",
+  "author": "リカード",
+  "dateModified": "2026-04-18T14:41:14.259Z",
+  "readingOrder": [
+    {
+      "url": "book5_ch5.html",
+      "name": "第五章　その他の諸税"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
