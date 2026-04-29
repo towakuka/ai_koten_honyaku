@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "大衆の反逆",
+  "author": "オルテガ",
+  "dateModified": "2026-04-29T12:13:00.327Z",
+  "readingOrder": [
+    {
+      "url": "ch7.html",
+      "name": "第七章　気高い生と卑俗な生、あるいは努力と惰性"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "大衆の反逆",
+  "author": "オルテガ",
+  "dateModified": "2026-04-29T12:13:30.844Z",
+  "readingOrder": [
+    {
+      "url": "ch12.html",
+      "name": "第十二章　「専門化」の野蛮"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

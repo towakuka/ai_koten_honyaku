@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "大衆の反逆",
+  "author": "オルテガ",
+  "dateModified": "2026-04-29T12:13:24.676Z",
+  "readingOrder": [
+    {
+      "url": "ch11.html",
+      "name": "第十一章　「満ち足りた坊っちゃん」の時代"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

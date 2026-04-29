@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "大衆の反逆",
+  "author": "オルテガ",
+  "dateModified": "2026-04-29T12:49:11.106Z",
+  "readingOrder": [
+    {
+      "url": "ch8.html",
+      "name": "第八章　なぜ大衆は何にでも介入し、しかも暴力によってしか介入しないのか"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "大衆の反逆",
+  "author": "オルテガ",
+  "dateModified": "2026-04-29T12:13:41.683Z",
+  "readingOrder": [
+    {
+      "url": "ch14.html",
+      "name": "第十四章　世界を支配するのは誰か"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
