@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "有閑階級の理論",
+  "author": "ヴェブレン",
+  "dateModified": "2026-05-16T18:20:27.359Z",
+  "readingOrder": [
+    {
+      "url": "ch2.html",
+      "name": "第二章　金銭的競争"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

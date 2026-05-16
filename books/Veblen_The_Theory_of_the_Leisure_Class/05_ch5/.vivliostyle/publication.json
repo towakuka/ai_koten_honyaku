@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "有閑階級の理論",
+  "author": "ヴェブレン",
+  "dateModified": "2026-05-16T18:20:47.454Z",
+  "readingOrder": [
+    {
+      "url": "ch5.html",
+      "name": "第五章　金銭的生活水準"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

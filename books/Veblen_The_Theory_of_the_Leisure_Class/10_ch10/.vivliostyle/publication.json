@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "有閑階級の理論",
+  "author": "ヴェブレン",
+  "dateModified": "2026-05-16T18:21:24.151Z",
+  "readingOrder": [
+    {
+      "url": "ch10.html",
+      "name": "第十章　武勇の現代的残存"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
