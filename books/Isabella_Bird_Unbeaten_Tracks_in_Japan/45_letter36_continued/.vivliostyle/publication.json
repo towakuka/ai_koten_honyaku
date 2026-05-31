@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "日本奥地紀行",
+  "author": "イザベラ・バード",
+  "dateModified": "2026-05-31T14:25:22.731Z",
+  "readingOrder": [
+    {
+      "url": "letter36_continued.html",
+      "name": "第三十六信　続き"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
