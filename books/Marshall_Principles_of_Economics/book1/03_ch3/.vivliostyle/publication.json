@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-05T06:58:26.177Z",
+  "readingOrder": [
+    {
+      "url": "ch3.html",
+      "name": "第三章　経済上の一般化または法則"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-05T12:00:21.692Z",
+  "readingOrder": [
+    {
+      "url": "ch5.html",
+      "name": "第五章　同じ物の用途選択——即時利用と将来利用"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

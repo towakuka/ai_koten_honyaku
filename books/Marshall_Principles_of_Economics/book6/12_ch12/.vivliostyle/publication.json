@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-08T15:32:48.386Z",
+  "readingOrder": [
+    {
+      "url": "ch12.html",
+      "name": "第十二章　経済進歩の一般的影響"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

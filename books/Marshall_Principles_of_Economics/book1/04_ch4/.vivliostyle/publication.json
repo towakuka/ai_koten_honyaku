@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-05T06:58:33.332Z",
+  "readingOrder": [
+    {
+      "url": "ch4.html",
+      "name": "第四章　経済学研究の順序と目的"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

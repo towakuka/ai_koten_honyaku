@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-08T15:32:00.497Z",
+  "readingOrder": [
+    {
+      "url": "ch6.html",
+      "name": "第六章　資本の利子"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

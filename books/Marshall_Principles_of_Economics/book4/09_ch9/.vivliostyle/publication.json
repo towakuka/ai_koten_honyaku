@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-05T08:44:52.026Z",
+  "readingOrder": [
+    {
+      "url": "ch9.html",
+      "name": "第九章　産業組織、分業、機械の影響"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

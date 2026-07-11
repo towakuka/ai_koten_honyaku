@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-06T15:13:27.706Z",
+  "readingOrder": [
+    {
+      "url": "ch13.html",
+      "name": "第十三章　最大満足説との関係から見た正常需要・正常供給の変化理論"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

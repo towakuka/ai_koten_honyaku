@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-05T08:44:06.107Z",
+  "readingOrder": [
+    {
+      "url": "ch3.html",
+      "name": "第三章　土地の肥沃度と収穫逓減の傾向"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

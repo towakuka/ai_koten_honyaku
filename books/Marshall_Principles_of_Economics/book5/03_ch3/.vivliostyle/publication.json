@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-06T15:12:15.927Z",
+  "readingOrder": [
+    {
+      "url": "ch3.html",
+      "name": "第三章　正常需要と正常供給の均衡"
+    }
+  ],
+  "resources": [],
+  "links": []
+}

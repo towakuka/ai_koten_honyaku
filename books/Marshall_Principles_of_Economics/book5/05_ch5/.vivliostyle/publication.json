@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "経済学原理",
+  "author": "アルフレッド・マーシャル",
+  "dateModified": "2026-07-06T15:12:30.956Z",
+  "readingOrder": [
+    {
+      "url": "ch5.html",
+      "name": "第五章　正常需要と正常供給の均衡——長期と短期の関連"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
